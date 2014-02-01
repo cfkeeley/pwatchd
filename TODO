@@ -1,0 +1,8 @@
+* update makefile
+* finish module interface 
+* write tcp module
+* finish pf module 
+* sort out interface for module access to config values??? how do we access ports etc 
+	- should this be module specific? i dont think so
+* shit loads of other things 
+
